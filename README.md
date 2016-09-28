@@ -14,3 +14,6 @@ http://brew.sh/
 
 Ruby
 https://gorails.com/setup/osx/10.12-sierra
+
+iTerm2
+https://www.iterm2.com/
