@@ -20,3 +20,6 @@ https://www.iterm2.com/
 
 Customize - Solarized Dark
 http://yoderbacon.com/blog/2014/10/22/how-to-customize-iterm/
+
+iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (choose Meslo LG L DZ Regular for Powerline)
+https://gist.github.com/kevin-smets/8568070
