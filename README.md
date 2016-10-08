@@ -10,6 +10,7 @@ https://code.visualstudio.com/
 # Ubuntu
 zsh
 https://gist.github.com/tsabat/1498393
+
 http://superuser.com/questions/1114732/how-do-i-install-oh-my-zsh-with-a-custom-zsh-install
 
 ```
