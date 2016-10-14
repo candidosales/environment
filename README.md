@@ -43,3 +43,16 @@ https://nodejs.org/en/
 2. Change permissions 
 https://docs.npmjs.com/getting-started/fixing-npm-permissions
 
+### MySQL
+
+https://dev.mysql.com/downloads/file/?id=466265
+
+The Oracle installer for MySQL puts the mysql binary in /usr/local/mysql/bin. You either need to call it with the full path:
+```
+/usr/local/mysql/bin/mysql
+```
+Or put /usr/local/mysql/bin in your PATH by adding the following to end of your ~/.bash_profile or ~/.profile:
+```
+export PATH=/usr/local/mysql/bin:${PATH}
+```
+
