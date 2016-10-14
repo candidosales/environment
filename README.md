@@ -56,3 +56,12 @@ Or put /usr/local/mysql/bin in your PATH by adding the following to end of your 
 export PATH=/usr/local/mysql/bin:${PATH}
 ```
 
+Change password root:
+MySQL 5.7.6 and later:
+```
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewPass';
+```
+MySQL 5.7.5 and earlier:
+```
+SET PASSWORD FOR 'root'@'localhost' = PASSWORD('MyNewPass');
+```
