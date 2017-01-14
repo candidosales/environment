@@ -1,5 +1,7 @@
 # environment
 
+Cross-platform REST API Client
+https://insomnia.rest/
 
 Terminal
 https://github.com/robbyrussell/oh-my-zsh
