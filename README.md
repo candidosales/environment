@@ -10,6 +10,10 @@ Editor
 https://code.visualstudio.com/
 
 # Ubuntu
+
+Ubuntu + Terminator + Oh My ZSH with Agnoster Theme
+https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a
+
 zsh
 https://gist.github.com/tsabat/1498393
 
