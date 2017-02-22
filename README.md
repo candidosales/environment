@@ -24,6 +24,9 @@ git clone --depth=1 https://github.com/robbyrussell/oh-my-zsh.git $HOME/.oh-my-z
 cp $HOME/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 ```
 
+## Java
+https://www.digitalocean.com/community/tutorials/como-instalar-o-java-com-apt-get-no-ubuntu-16-04-pt
+
 # Mac
 brew
 http://brew.sh/
