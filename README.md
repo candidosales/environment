@@ -46,11 +46,13 @@ https://gist.github.com/kevin-smets/8568070
 ### Node (without sudo)
 
 1. First install node through pkg
-https://nodejs.org/en/
-
+https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
 
 2. Change permissions 
 https://docs.npmjs.com/getting-started/fixing-npm-permissions
+
+### Yarn 
+https://yarnpkg.com/en/docs/install
 
 ### MySQL
 
