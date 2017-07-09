@@ -9,6 +9,12 @@ https://github.com/robbyrussell/oh-my-zsh
 Editor
 https://code.visualstudio.com/
 
+Update plugins Visual Studio Code
+https://gist.github.com/candidosales/efa30e6fc71a29fd69d9ca1ca33de54e
+
+GClound
+https://cloud.google.com/sdk/downloads
+
 # Ubuntu
 
 Ubuntu + Terminator + Oh My ZSH with Agnoster Theme
