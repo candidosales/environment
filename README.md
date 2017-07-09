@@ -12,7 +12,7 @@ https://code.visualstudio.com/
 Update plugins Visual Studio Code
 https://gist.github.com/candidosales/efa30e6fc71a29fd69d9ca1ca33de54e
 
-GClound
+GCloud
 https://cloud.google.com/sdk/downloads
 
 # Ubuntu
