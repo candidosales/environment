@@ -15,6 +15,15 @@ https://gist.github.com/candidosales/efa30e6fc71a29fd69d9ca1ca33de54e
 GCloud
 https://cloud.google.com/sdk/downloads
 
+Zsh
+http://www.zsh.org/
+
+Oh my Zsh
+https://github.com/robbyrussell/oh-my-zsh/
+
+Space Prompt
+https://github.com/denysdovhan/spaceship-prompt
+
 # Ubuntu
 
 Ubuntu + Terminator + Oh My ZSH with Agnoster Theme
