@@ -91,3 +91,13 @@ MySQL 5.7.5 and earlier:
 ```
 SET PASSWORD FOR 'root'@'localhost' = PASSWORD('MyNewPass');
 ```
+
+### Go
+
+Config your bash with (ex: ~/.zshrc or ~/.bash_profile)
+
+```bash
+export GOPATH=$HOME/go
+export GOBIN=$GOPATH/bin
+export PATH=$PATH:$GOBIN
+```
