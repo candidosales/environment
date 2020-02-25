@@ -101,3 +101,5 @@ export GOPATH=$HOME/go
 export GOBIN=$GOPATH/bin
 export PATH=$PATH:$GOBIN
 ```
+
+https://github.com/rakyll/govalidate
