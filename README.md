@@ -64,6 +64,12 @@ http://yoderbacon.com/blog/2014/10/22/how-to-customize-iterm/
 iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (choose Meslo LG L DZ Regular for Powerline)
 https://gist.github.com/kevin-smets/8568070
 
+## Utilities
+
+Capture your screen
+https://getkap.co/
+https://getcleanshot.com/
+
 ### Node (without sudo)
 
 1. First install node through pkg
