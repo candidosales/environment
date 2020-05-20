@@ -24,6 +24,11 @@ https://github.com/robbyrussell/oh-my-zsh/
 Space Prompt
 https://github.com/denysdovhan/spaceship-prompt
 
+Editor Font
+https://www.jetbrains.com/lp/mono/
+https://www.monolisa.dev/
+https://sourcefoundry.org/hack/
+
 # Ubuntu
 
 Ubuntu + Terminator + Oh My ZSH with Agnoster Theme
