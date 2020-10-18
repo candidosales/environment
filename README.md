@@ -60,26 +60,6 @@ cp $HOME/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 ### Java
 https://www.digitalocean.com/community/tutorials/como-instalar-o-java-com-apt-get-no-ubuntu-16-04-pt
 
-## Mac
-
-Ruby
-https://gorails.com/setup/osx/10.12-sierra
-
-iTerm2
-https://www.iterm2.com/
-
-Customize - Solarized Dark
-http://yoderbacon.com/blog/2014/10/22/how-to-customize-iterm/
-
-iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (choose Meslo LG L DZ Regular for Powerline)
-https://gist.github.com/kevin-smets/8568070
-
-## Utilities
-
-Capture your screen
-https://getkap.co/
-https://getcleanshot.com/
-
 ### Node (without sudo)
 
 1. First install node through pkg
@@ -88,8 +68,33 @@ https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-di
 2. Change permissions 
 https://docs.npmjs.com/getting-started/fixing-npm-permissions
 
-### Yarn 
-https://yarnpkg.com/en/docs/install
+
+## Mac
+
+- Mac already have ZSH
+
+### Terminal
+
+- [iTerm2](https://www.iterm2.com/)
+- iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (choose Meslo LG L DZ Regular for Powerline)
+https://gist.github.com/kevin-smets/8568070
+
+### Utilities
+
+Capture your screen
+- [An open-source screen recorder built with web technology - KAP](https://getkap.co/)
+- [Capture your Mac’s screen like a pro - CleanShot X](https://getcleanshot.com/)
+
+#### Languages
+
+##### Go
+
+```bash
+brew install go
+```
+##### Node
+
+- NVM with Brew: https://medium.com/@jamesauble/install-nvm-on-mac-with-brew-adb921fb92cc
 
 ### MySQL
 
