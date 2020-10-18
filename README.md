@@ -1,21 +1,24 @@
 # Environment
 
-Cross-platform REST API Client
-https://insomnia.rest/
+## General
 
-## Editor
+### Editor
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [GoLand](https://www.jetbrains.com/go/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
-### Editor Font
+#### Visual Studio Code
+
+- Settings Sync: Turn On (CMD+Shift+P)
+
+#### Editor Font
 
 - https://www.jetbrains.com/lp/mono/
 - https://www.monolisa.dev/
 - https://sourcefoundry.org/hack/
 
-## Terminal
+### Terminal
 
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Space Prompt](https://github.com/denysdovhan/spaceship-prompt)
@@ -23,8 +26,11 @@ https://insomnia.rest/
 Update plugins Visual Studio Code
 https://gist.github.com/candidosales/efa30e6fc71a29fd69d9ca1ca33de54e
 
-GCloud
-https://cloud.google.com/sdk/downloads
+### Tools
+
+- [1Password](https://1password.com/)
+- [Insomnia - Cross-platform REST API Client](https://insomnia.rest/)
+- [GCloud SDK](https://cloud.google.com/sdk/downloads)
 
 
 # Ubuntu
