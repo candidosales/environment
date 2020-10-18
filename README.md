@@ -120,7 +120,7 @@ MySQL 5.7.5 and earlier:
 SET PASSWORD FOR 'root'@'localhost' = PASSWORD('MyNewPass');
 ```
 
-### Go
+### Go [Deprecated]
 
 ```bash
 brew install go
