@@ -74,12 +74,6 @@ https://docs.npmjs.com/getting-started/fixing-npm-permissions
 
 - Mac already have ZSH
 
-### Terminal
-
-- [iTerm2](https://www.iterm2.com/)
-- iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (choose Meslo LG L DZ Regular for Powerline)
-https://gist.github.com/kevin-smets/8568070
-
 ### Utilities
 
 Capture your screen
@@ -96,6 +90,12 @@ brew install go
 ##### Node
 
 - NVM with Brew: https://medium.com/@jamesauble/install-nvm-on-mac-with-brew-adb921fb92cc
+
+### Terminal [Deprecated]
+
+- [iTerm2](https://www.iterm2.com/)
+- iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (choose Meslo LG L DZ Regular for Powerline)
+https://gist.github.com/kevin-smets/8568070
 
 ### MySQL
 
