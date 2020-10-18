@@ -10,7 +10,7 @@
 
 #### Visual Studio Code
 
-- Settings Sync: Turn On (CMD+Shift+P)
+- Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...` 
 
 #### Editor Font
 
@@ -23,8 +23,6 @@
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Space Prompt](https://github.com/denysdovhan/spaceship-prompt)
 
-Update plugins Visual Studio Code
-https://gist.github.com/candidosales/efa30e6fc71a29fd69d9ca1ca33de54e
 
 ### Tools
 
