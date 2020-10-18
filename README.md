@@ -1,13 +1,24 @@
-# environment
+# Environment
 
 Cross-platform REST API Client
 https://insomnia.rest/
 
-Terminal
-https://github.com/robbyrussell/oh-my-zsh
+## Editor
 
-Editor
-https://code.visualstudio.com/
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [GoLand](https://www.jetbrains.com/go/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+
+### Editor Font
+
+- https://www.jetbrains.com/lp/mono/
+- https://www.monolisa.dev/
+- https://sourcefoundry.org/hack/
+
+## Terminal
+
+- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [Space Prompt](https://github.com/denysdovhan/spaceship-prompt)
 
 Update plugins Visual Studio Code
 https://gist.github.com/candidosales/efa30e6fc71a29fd69d9ca1ca33de54e
@@ -15,20 +26,6 @@ https://gist.github.com/candidosales/efa30e6fc71a29fd69d9ca1ca33de54e
 GCloud
 https://cloud.google.com/sdk/downloads
 
-Zsh
-http://www.zsh.org/
-
-Oh my Zsh
-https://github.com/robbyrussell/oh-my-zsh/
-
-Space Prompt
-https://github.com/denysdovhan/spaceship-prompt
-
-Editor Font
-
-- https://www.jetbrains.com/lp/mono/
-- https://www.monolisa.dev/
-- https://sourcefoundry.org/hack/
 
 # Ubuntu
 
