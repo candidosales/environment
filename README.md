@@ -2,6 +2,11 @@
 
 ## General
 
+### Browsers
+
+- [Google Chrome](https://www.google.ca/chrome/)
+- [Mozilla Firefox](https://www.mozilla.org/en-CA/firefox/new/)
+
 ### Editor
 
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -36,7 +41,7 @@
 - [Figma](https://www.figma.com/downloads/)
 - [MAC][Affinity Designer](https://affinity.serif.com/en-us/designer/)
 
-### Miscelanius
+### Miscellaneous
 
 - [1Password](https://1password.com/)
 - [Spotify](https://www.spotify.com/ca-en/download/other/)
