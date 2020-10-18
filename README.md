@@ -40,6 +40,7 @@
 
 - [1Password](https://1password.com/)
 - [Spotify](https://www.spotify.com/ca-en/download/other/)
+- [Discord](https://discord.com/download)
 
 
 ## Ubuntu
