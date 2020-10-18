@@ -26,12 +26,23 @@
 
 ### Tools
 
-- [1Password](https://1password.com/)
+#### Developer
+
 - [Insomnia - Cross-platform REST API Client](https://insomnia.rest/)
 - [GCloud SDK](https://cloud.google.com/sdk/downloads)
 
+#### Design
 
-# Ubuntu
+- [Figma](https://www.figma.com/downloads/)
+- [MAC][Affinity Designer](https://affinity.serif.com/en-us/designer/)
+
+### Miscelanius
+
+- [1Password](https://1password.com/)
+- [Spotify](https://www.spotify.com/ca-en/download/other/)
+
+
+## Ubuntu
 
 Ubuntu + Terminator + Oh My ZSH with Agnoster Theme
 https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a
@@ -46,12 +57,10 @@ git clone --depth=1 https://github.com/robbyrussell/oh-my-zsh.git $HOME/.oh-my-z
 cp $HOME/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 ```
 
-## Java
+### Java
 https://www.digitalocean.com/community/tutorials/como-instalar-o-java-com-apt-get-no-ubuntu-16-04-pt
 
-# Mac
-brew
-http://brew.sh/
+## Mac
 
 Ruby
 https://gorails.com/setup/osx/10.12-sierra
@@ -106,6 +115,10 @@ SET PASSWORD FOR 'root'@'localhost' = PASSWORD('MyNewPass');
 ```
 
 ### Go
+
+```bash
+brew install go
+```
 
 Config your bash with (ex: ~/.zshrc or ~/.bash_profile)
 
