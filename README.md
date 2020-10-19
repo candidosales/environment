@@ -2,41 +2,39 @@
 
 ## General
 
-### Browsers
+### Developer
 
-- [Google Chrome](https://www.google.ca/chrome/)
-- [Mozilla Firefox](https://www.mozilla.org/en-CA/firefox/new/)
+- [Insomnia - Cross-platform REST API Client](https://insomnia.rest/)
+- [GCloud SDK](https://cloud.google.com/sdk/downloads)
 
-### Editor
+#### Editor
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [GoLand](https://www.jetbrains.com/go/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
-#### Visual Studio Code
-
 - Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...` 
 
-#### Editor Font
+##### Editor Font
 
 - https://www.jetbrains.com/lp/mono/
 - https://www.monolisa.dev/
 - https://sourcefoundry.org/hack/
 
-### Terminal
+#### Terminal
 
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Space Prompt](https://github.com/denysdovhan/spaceship-prompt)
 
+#### Settings
 
-### Tools
+```shell script
+git config --global user.name "NAME"
+git config --global user.email "EMAIL"
+git config --global color.ui true
+```
 
-#### Developer
-
-- [Insomnia - Cross-platform REST API Client](https://insomnia.rest/)
-- [GCloud SDK](https://cloud.google.com/sdk/downloads)
-
-#### Design
+### Design
 
 - [Figma](https://www.figma.com/downloads/)
 - [MAC][Affinity Designer](https://affinity.serif.com/en-us/designer/)
@@ -46,6 +44,11 @@
 - [1Password](https://1password.com/)
 - [Spotify](https://www.spotify.com/ca-en/download/other/)
 - [Discord](https://discord.com/download)
+
+### Browsers
+
+- [Google Chrome](https://www.google.ca/chrome/)
+- [Mozilla Firefox](https://www.mozilla.org/en-CA/firefox/new/)
 
 
 ## Ubuntu
@@ -58,7 +61,7 @@ https://gist.github.com/tsabat/1498393
 
 http://superuser.com/questions/1114732/how-do-i-install-oh-my-zsh-with-a-custom-zsh-install
 
-```
+```shell script
 git clone --depth=1 https://github.com/robbyrussell/oh-my-zsh.git $HOME/.oh-my-zsh
 cp $HOME/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 ```
@@ -89,7 +92,7 @@ Capture your screen
 
 ##### Go
 
-```bash
+```shell script
 brew install go
 ```
 ##### Node
@@ -107,11 +110,13 @@ https://gist.github.com/kevin-smets/8568070
 https://dev.mysql.com/downloads/file/?id=466265
 
 The Oracle installer for MySQL puts the mysql binary in /usr/local/mysql/bin. You either need to call it with the full path:
-```
+
+```shell script
 /usr/local/mysql/bin/mysql
 ```
 Or put /usr/local/mysql/bin in your PATH by adding the following to end of your ~/.bash_profile or ~/.profile:
-```
+
+```shell script
 export PATH=/usr/local/mysql/bin:${PATH}
 ```
 
@@ -127,13 +132,13 @@ SET PASSWORD FOR 'root'@'localhost' = PASSWORD('MyNewPass');
 
 ### Go [Deprecated]
 
-```bash
+```shell script
 brew install go
 ```
 
 Config your bash with (ex: ~/.zshrc or ~/.bash_profile)
 
-```bash
+```shell script
 export GOPATH=$HOME/go
 export GOBIN=$GOPATH/bin
 export PATH=$PATH:$GOBIN
