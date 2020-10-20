@@ -20,6 +20,8 @@
 - https://www.jetbrains.com/lp/mono/
 - https://www.monolisa.dev/
 - https://sourcefoundry.org/hack/
+- https://www.programmingfonts.org/
+- https://github.com/chriscoyier/coding-fonts
 
 #### Terminal
 
