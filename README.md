@@ -24,6 +24,7 @@
 - https://www.programmingfonts.org/
 - https://github.com/chriscoyier/coding-fonts
 - https://developer.apple.com/fonts/
+- https://devfonts.gafi.dev/
 
 #### Terminal
 
