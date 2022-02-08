@@ -28,8 +28,10 @@
 
 #### Terminal
 
-- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-- [Space Prompt](https://github.com/denysdovhan/spaceship-prompt)
+Install first the [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and then [Space Prompt](https://github.com/denysdovhan/spaceship-prompt).
+
+Installing Space Prompt: https://spaceship-prompt.sh/getting-started/ 
+
 
 #### Settings
 
@@ -85,6 +87,8 @@ https://docs.npmjs.com/getting-started/fixing-npm-permissions
 
 ## Mac
 
+Install Homebrew: https://brew.sh/
+
 - Mac already have ZSH
 
 ### Utilities
@@ -100,6 +104,9 @@ Capture your screen
 ```shell script
 brew install go
 ```
+
+https://github.com/rakyll/govalidate
+
 ##### Node
 
 - NVM with Brew: https://medium.com/@jamesauble/install-nvm-on-mac-with-brew-adb921fb92cc
@@ -134,19 +141,3 @@ MySQL 5.7.5 and earlier:
 ```
 SET PASSWORD FOR 'root'@'localhost' = PASSWORD('MyNewPass');
 ```
-
-### Go [Deprecated]
-
-```shell script
-brew install go
-```
-
-Config your bash with (ex: ~/.zshrc or ~/.bash_profile)
-
-```shell script
-export GOPATH=$HOME/go
-export GOBIN=$GOPATH/bin
-export PATH=$PATH:$GOBIN
-```
-
-https://github.com/rakyll/govalidate
