@@ -96,6 +96,7 @@ Install Homebrew: https://brew.sh/
 Capture your screen
 - [An open-source screen recorder built with web technology - KAP](https://getkap.co/)
 - [Capture your Mac’s screen like a pro - CleanShot X](https://getcleanshot.com/)
+- [Prevent your Mac from falling asleep, dimming the screen or starting your screensaver - Theine](https://apps.apple.com/app/theine/id955848755?mt=12)
 
 #### Languages
 
