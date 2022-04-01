@@ -28,6 +28,8 @@
 
 #### Terminal
 
+- [Warp - Rust-based](https://www.warp.dev/)
+
 Install first the [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and then [Space Prompt](https://github.com/denysdovhan/spaceship-prompt).
 
 Installing Space Prompt: https://spaceship-prompt.sh/getting-started/ 
