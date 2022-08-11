@@ -14,7 +14,7 @@
 - [GoLand](https://www.jetbrains.com/go/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
-- Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...` 
+VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...` 
 
 ##### Editor Font
 
@@ -37,11 +37,19 @@ Installing Space Prompt: https://spaceship-prompt.sh/getting-started/
 
 #### Settings
 
-```shell script
+```shell
 git config --global user.name "NAME"
 git config --global user.email "EMAIL"
 git config --global color.ui true
 ```
+
+#### Database
+
+```shell
+brew install postgres
+```
+
+- Postico 2 - https://eggerapps.at/postico2/ - The native Mac app for PostgreSQL
 
 ### Design
 
@@ -104,7 +112,7 @@ Capture your screen
 
 ##### Go
 
-```shell script
+```shell
 brew install go
 ```
 
@@ -126,12 +134,12 @@ https://dev.mysql.com/downloads/file/?id=466265
 
 The Oracle installer for MySQL puts the mysql binary in /usr/local/mysql/bin. You either need to call it with the full path:
 
-```shell script
+```shell
 /usr/local/mysql/bin/mysql
 ```
 Or put /usr/local/mysql/bin in your PATH by adding the following to end of your ~/.bash_profile or ~/.profile:
 
-```shell script
+```shell
 export PATH=/usr/local/mysql/bin:${PATH}
 ```
 
