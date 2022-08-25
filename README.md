@@ -47,6 +47,7 @@ git config --global color.ui true
 
 - [Figma](https://www.figma.com/downloads/)
 - :apple: [Affinity Designer](https://affinity.serif.com/en-us/designer/)
+- :apple: [Affinity Photo](https://affinity.serif.com/en-us/photo/)
 
 ### Miscellaneous
 
