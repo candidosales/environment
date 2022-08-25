@@ -54,7 +54,7 @@ brew install postgres
 ### Design
 
 - [Figma](https://www.figma.com/downloads/)
-- [MAC][Affinity Designer](https://affinity.serif.com/en-us/designer/)
+- :apple: [Affinity Designer](https://affinity.serif.com/en-us/designer/)
 
 ### Miscellaneous
 
@@ -101,16 +101,9 @@ Install Homebrew: https://brew.sh/
 
 - Mac already have ZSH
 
-### Utilities
+### Languages
 
-Capture your screen
-- [An open-source screen recorder built with web technology - KAP](https://getkap.co/)
-- [Capture your Mac’s screen like a pro - CleanShot X](https://getcleanshot.com/)
-- [Prevent your Mac from falling asleep, dimming the screen or starting your screensaver - Theine](https://apps.apple.com/app/theine/id955848755?mt=12)
-
-#### Languages
-
-##### Go
+#### Go
 
 ```shell
 brew install go
@@ -118,15 +111,19 @@ brew install go
 
 https://github.com/rakyll/govalidate
 
-##### Node
+#### Node
 
-- NVM with Brew: https://medium.com/@jamesauble/install-nvm-on-mac-with-brew-adb921fb92cc
+```shell
+brew install nvm
+```
 
-### Terminal [Deprecated]
 
-- [iTerm2](https://www.iterm2.com/)
-- iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (choose Meslo LG L DZ Regular for Powerline)
-https://gist.github.com/kevin-smets/8568070
+### Utilities
+
+Capture your screen
+- [An open-source screen recorder built with web technology - KAP](https://getkap.co/)
+- [Capture your Mac’s screen like a pro - CleanShot X](https://getcleanshot.com/)
+- [Prevent your Mac from falling asleep, dimming the screen or starting your screensaver - Theine](https://apps.apple.com/app/theine/id955848755?mt=12)
 
 ### MySQL
 
