@@ -43,14 +43,6 @@ git config --global user.email "EMAIL"
 git config --global color.ui true
 ```
 
-#### Database
-
-```shell
-brew install postgres
-```
-
-- Postico 2 - https://eggerapps.at/postico2/ - The native Mac app for PostgreSQL
-
 ### Design
 
 - [Figma](https://www.figma.com/downloads/)
@@ -67,35 +59,7 @@ brew install postgres
 - [Google Chrome](https://www.google.ca/chrome/)
 - [Mozilla Firefox](https://www.mozilla.org/en-CA/firefox/new/)
 
-
-## Ubuntu
-
-Ubuntu + Terminator + Oh My ZSH with Agnoster Theme
-https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a
-
-zsh
-https://gist.github.com/tsabat/1498393
-
-http://superuser.com/questions/1114732/how-do-i-install-oh-my-zsh-with-a-custom-zsh-install
-
-```shell script
-git clone --depth=1 https://github.com/robbyrussell/oh-my-zsh.git $HOME/.oh-my-zsh
-cp $HOME/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
-```
-
-### Java
-https://www.digitalocean.com/community/tutorials/como-instalar-o-java-com-apt-get-no-ubuntu-16-04-pt
-
-### Node (without sudo)
-
-1. First install node through pkg
-https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
-
-2. Change permissions 
-https://docs.npmjs.com/getting-started/fixing-npm-permissions
-
-
-## Mac
+## :apple: Mac
 
 Install Homebrew: https://brew.sh/
 
@@ -116,7 +80,6 @@ https://github.com/rakyll/govalidate
 ```shell
 brew install nvm
 ```
-
 
 ### Utilities
 
@@ -149,3 +112,38 @@ MySQL 5.7.5 and earlier:
 ```
 SET PASSWORD FOR 'root'@'localhost' = PASSWORD('MyNewPass');
 ```
+
+#### Postgres
+
+```shell
+brew install postgres
+```
+
+- Postico 2 - https://eggerapps.at/postico2/ - The native Mac app for PostgreSQL
+
+
+## Ubuntu
+
+Ubuntu + Terminator + Oh My ZSH with Agnoster Theme
+https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a
+
+zsh
+https://gist.github.com/tsabat/1498393
+
+http://superuser.com/questions/1114732/how-do-i-install-oh-my-zsh-with-a-custom-zsh-install
+
+```shell script
+git clone --depth=1 https://github.com/robbyrussell/oh-my-zsh.git $HOME/.oh-my-zsh
+cp $HOME/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+```
+
+### Java
+https://www.digitalocean.com/community/tutorials/como-instalar-o-java-com-apt-get-no-ubuntu-16-04-pt
+
+### Node (without sudo)
+
+1. First install node through pkg
+https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
+
+2. Change permissions 
+https://docs.npmjs.com/getting-started/fixing-npm-permissions
