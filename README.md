@@ -59,6 +59,10 @@ git config --global color.ui true
 - [Google Chrome](https://www.google.ca/chrome/)
 - [Mozilla Firefox](https://www.mozilla.org/en-CA/firefox/new/)
 
+### Video
+
+- [DaVinci](https://www.blackmagicdesign.com/products/davinciresolve)
+
 ## :apple: Mac
 
 Install Homebrew: https://brew.sh/
