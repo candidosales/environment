@@ -77,8 +77,16 @@ https://github.com/rakyll/govalidate
 
 #### Node
 
+**NVM**
+
 ```shell
 brew install nvm
+```
+
+**Node 16**
+
+```shell
+nvm install 16
 ```
 
 ### Utilities
