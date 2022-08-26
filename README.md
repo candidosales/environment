@@ -8,6 +8,7 @@
 - [GCloud SDK](https://cloud.google.com/sdk/downloads)
 - [Docker](https://www.docker.com/get-started)
 - [Github CLI](https://cli.github.com/)
+- [Tableplus - Database management](https://www.tableplus.com/)
 
 #### Editor
 
