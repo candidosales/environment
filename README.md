@@ -7,6 +7,7 @@
 - [Insomnia - Cross-platform REST API Client](https://insomnia.rest/)
 - [GCloud SDK](https://cloud.google.com/sdk/downloads)
 - [Docker](https://www.docker.com/get-started)
+- [Github CLI](https://cli.github.com/)
 
 #### Editor
 
