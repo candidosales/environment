@@ -27,6 +27,7 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 - https://github.com/chriscoyier/coding-fonts
 - https://developer.apple.com/fonts/
 - https://devfonts.gafi.dev/
+- https://github.com/mona-sans
 
 #### Terminal
 
