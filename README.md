@@ -91,6 +91,10 @@ https://github.com/rakyll/govalidate
 
 https://github.com/Schniz/fnm
 
+```shell
+brew install fnm
+```
+
 **NVM**
 
 ```shell
