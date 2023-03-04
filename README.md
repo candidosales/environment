@@ -87,6 +87,10 @@ https://github.com/rakyll/govalidate
 
 #### Node
 
+**FNM - Node.js version manager, built in Rust**
+
+https://github.com/Schniz/fnm
+
 **NVM**
 
 ```shell
