@@ -13,6 +13,7 @@
 #### Editor
 
 - [Visual Studio Code](https://code.visualstudio.com/)
+  - [White - Minimalist monochrome theme](https://marketplace.visualstudio.com/items?itemName=arthurwhite.White)
 - [GoLand](https://www.jetbrains.com/go/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
@@ -32,10 +33,12 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 #### Terminal
 
 - [Warp - Rust-based](https://www.warp.dev/)
+- [Nushell](https://www.nushell.sh/)
 
 Install first the [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and then [Space Prompt](https://github.com/denysdovhan/spaceship-prompt).
 
 Installing Space Prompt: https://spaceship-prompt.sh/getting-started/ 
+
 
 
 #### Settings
@@ -54,11 +57,16 @@ git config --global color.ui true
 
 ### Miscellaneous
 
+#### Security 
 - [1Password](https://1password.com/)
-- [Spotify](https://www.spotify.com/ca-en/download/other/)
-- [Discord](https://discord.com/download)
+
+#### Productivity
 - [CleanShot X - Capture your Mac’s screen like a pro](https://getcleanshot.com/)
 - [Raycast - Supercharged productivity](https://www.raycast.com/)
+- [Screen Studio - Beautiful screen recordings in minutes](https://www.screen.studio/)
+
+- [Spotify](https://www.spotify.com/ca-en/download/other/)
+- [Discord](https://discord.com/download)
 
 ### Browsers
 
