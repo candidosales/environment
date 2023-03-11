@@ -65,6 +65,7 @@ git config --global color.ui true
 - [Raycast - Supercharged productivity](https://www.raycast.com/)
 - [Screen Studio - Beautiful screen recordings in minutes](https://www.screen.studio/)
 
+#### Others
 - [Spotify](https://www.spotify.com/ca-en/download/other/)
 - [Discord](https://discord.com/download)
 
