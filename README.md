@@ -15,6 +15,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse)
   - [White - Minimalist monochrome theme](https://marketplace.visualstudio.com/items?itemName=arthurwhite.White)
+  - [Batsignal Theme](https://github.com/natew/batsignal)
   - [Carbon Product Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon)
 - [GoLand](https://www.jetbrains.com/go/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
@@ -32,6 +33,8 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 - https://developer.apple.com/fonts/
 - https://devfonts.gafi.dev/
 - https://github.com/mona-sans
+- https://github.com/intel/intel-one-mono
+- https://brailleinstitute.org/freefont
 
 #### Terminal
 
