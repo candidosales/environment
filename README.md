@@ -17,6 +17,7 @@
   - [White - Minimalist monochrome theme](https://marketplace.visualstudio.com/items?itemName=arthurwhite.White)
   - [Batsignal Theme](https://github.com/natew/batsignal)
   - [Carbon Product Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon)
+  - [Railly Hugo](https://marketplace.visualstudio.com/items?itemName=RaillyHugo.one-hunter)
 - [GoLand](https://www.jetbrains.com/go/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
