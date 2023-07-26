@@ -18,6 +18,7 @@
   - [Batsignal Theme](https://github.com/natew/batsignal)
   - [Carbon Product Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon)
   - [Railly Hugo](https://marketplace.visualstudio.com/items?itemName=RaillyHugo.one-hunter)
+  - [Malibu](https://marketplace.visualstudio.com/items?itemName=wicked-labs.malibu)
 - [GoLand](https://www.jetbrains.com/go/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
