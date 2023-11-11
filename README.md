@@ -37,6 +37,8 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 - https://github.com/mona-sans
 - https://github.com/intel/intel-one-mono
 - https://brailleinstitute.org/freefont
+- https://monaspace.githubnext.com/
+- https://vercel.com/font
 
 #### Terminal
 
