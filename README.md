@@ -2,6 +2,8 @@
 
 ## General
 
+Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube.com/watch?v=GK7zLYAXdDs)
+
 ### Developer
 
 - [Insomnia - Cross-platform REST API Client](https://insomnia.rest/)
@@ -9,9 +11,12 @@
 - [Docker](https://www.docker.com/get-started)
 - [Github CLI](https://cli.github.com/)
 - [Tableplus - Database management](https://www.tableplus.com/)
+- [Raycast](https://www.raycast.com/)
 
 #### Editor
 
+- [Zed](https://zed.dev/)
+- [Fleet](https://www.jetbrains.com/fleet/)
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse)
   - [White - Minimalist monochrome theme](https://marketplace.visualstudio.com/items?itemName=arthurwhite.White)
