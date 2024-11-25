@@ -4,10 +4,14 @@
 
 Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube.com/watch?v=GK7zLYAXdDs)
 
+### Inspiration
+
+- [My Minimal MacBook Pro Setup Guide](https://eugeneyan.com/writing/mac-setup/)
+- [Setting up new M3 Max MacBook Pro for Full-Stack Web Development](https://www.youtube.com/watch?v=PvU_aEgIjSg)
+
 ### Developer
 
-- [Insomnia - Cross-platform REST API Client](https://insomnia.rest/)
-- [GCloud SDK](https://cloud.google.com/sdk/downloads)
+- [Bruno - Opensource IDE For Exploring and Testing Api's](https://www.usebruno.com/)
 - [Docker](https://www.docker.com/get-started)
 - [Github CLI](https://cli.github.com/)
 - [Tableplus - Database management](https://www.tableplus.com/)
@@ -50,6 +54,10 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 
 - [Warp - Rust-based](https://www.warp.dev/)
 - [Nushell](https://www.nushell.sh/)
+
+#### Command line
+
+- [Fish](https://fishshell.com/)
 
 First, install the [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
 
@@ -169,9 +177,3 @@ brew install postgres
 
 - PgAdmin 4 (Free - Open source) - https://www.pgadmin.org/download/pgadmin-4-macos/
 - Postico 2 - https://eggerapps.at/postico2/ - The native Mac app for PostgreSQL
-
-## Inspiration
-
-- https://www.youtube.com/watch?v=GK7zLYAXdDs
-- https://eugeneyan.com/writing/mac-setup/
-- https://www.youtube.com/watch?v=PvU_aEgIjSg

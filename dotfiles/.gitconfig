@@ -1,0 +1,7 @@
+[user]
+	name = Candido Sales
+	email = candidosg@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = true
