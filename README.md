@@ -44,15 +44,18 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 - https://brailleinstitute.org/freefont
 - https://monaspace.githubnext.com/
 - https://vercel.com/font
+- https://github.com/ryanoasis/nerd-fonts
 
 #### Terminal
 
 - [Warp - Rust-based](https://www.warp.dev/)
 - [Nushell](https://www.nushell.sh/)
 
-Install first the [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and then [Space Prompt](https://github.com/denysdovhan/spaceship-prompt).
+First, install the [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
 
-Installing Space Prompt: https://spaceship-prompt.sh/getting-started/ 
+*Zsh theme*
+- [PowerLevel10k](https://github.com/romkatv/powerlevel10k)
+- [Space Prompt](https://github.com/denysdovhan/spaceship-prompt)
 
 
 
@@ -74,15 +77,26 @@ git config --global color.ui true
 
 #### Security 
 - [1Password](https://1password.com/)
+  - [CLI](https://developer.1password.com/docs/cli/get-started/)
 
 #### Productivity
 - [CleanShot X - Capture your Mac’s screen like a pro](https://getcleanshot.com/)
 - [Raycast - Supercharged productivity](https://www.raycast.com/)
+  - Brew
+  - TailwindCSS
+  - 1Password
+  - Spotify
+  - VSCode
 - [Screen Studio - Beautiful screen recordings in minutes](https://www.screen.studio/)
 
 #### Others
 - [Spotify](https://www.spotify.com/ca-en/download/other/)
 - [Discord](https://discord.com/download)
+- [Hidden Bar](https://github.com/dwarvesf/hidden)
+- [AltTab](https://alt-tab-macos.netlify.app/)
+- [An open-source screen recorder built with web technology - KAP](https://getkap.co/)
+- [Prevent your Mac from falling asleep, dimming the screen or starting your screensaver - Theine](https://apps.apple.com/app/theine/id955848755?mt=12)
+
 
 ### Browsers
 
@@ -97,7 +111,7 @@ git config --global color.ui true
 
 Install Homebrew: https://brew.sh/
 
-- Mac already have ZSH
+- Mac already has ZSH
 
 ### Languages
 
@@ -111,7 +125,7 @@ https://github.com/rakyll/govalidate
 
 #### Node
 
-**FNM - Node.js version manager, built in Rust**
+**FNM - Node.js version manager, built-in Rust**
 
 https://github.com/Schniz/fnm
 
@@ -125,41 +139,26 @@ brew install fnm
 brew install nvm
 ```
 
-**Node 16**
+**Node 20**
 
 ```shell
-nvm install 16
+nvm install 20
+nvm alias default 20
 ```
 
-### Utilities
+#### Ruby
 
-Capture your screen
-- [An open-source screen recorder built with web technology - KAP](https://getkap.co/)
-- [Prevent your Mac from falling asleep, dimming the screen or starting your screensaver - Theine](https://apps.apple.com/app/theine/id955848755?mt=12)
-
-### MySQL
-
-https://dev.mysql.com/downloads/file/?id=466265
-
-The Oracle installer for MySQL puts the mysql binary in /usr/local/mysql/bin. You either need to call it with the full path:
+**Rbenv**
 
 ```shell
-/usr/local/mysql/bin/mysql
+brew install rbenv
 ```
-Or put /usr/local/mysql/bin in your PATH by adding the following to end of your ~/.bash_profile or ~/.profile:
+
+**Ruby 3.3.5**
 
 ```shell
-export PATH=/usr/local/mysql/bin:${PATH}
-```
-
-Change password root:
-MySQL 5.7.6 and later:
-```
-ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewPass';
-```
-MySQL 5.7.5 and earlier:
-```
-SET PASSWORD FOR 'root'@'localhost' = PASSWORD('MyNewPass');
+rbenv install 3.3.5
+rbenv global 3.3.5
 ```
 
 #### Postgres
@@ -168,16 +167,11 @@ SET PASSWORD FOR 'root'@'localhost' = PASSWORD('MyNewPass');
 brew install postgres
 ```
 
+- PgAdmin 4 (Free - Open source) - https://www.pgadmin.org/download/pgadmin-4-macos/
 - Postico 2 - https://eggerapps.at/postico2/ - The native Mac app for PostgreSQL
-
-### Node (without sudo)
-
-1. First install node through pkg
-https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
-
-2. Change permissions 
-https://docs.npmjs.com/getting-started/fixing-npm-permissions
 
 ## Inspiration
 
+- https://www.youtube.com/watch?v=GK7zLYAXdDs
 - https://eugeneyan.com/writing/mac-setup/
+- https://www.youtube.com/watch?v=PvU_aEgIjSg
