@@ -37,13 +37,19 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 
 ![my terminal](./terminal.png)
 
-- [iTerm2](https://iterm2.com/)
-- [Geist Mono Nerd Font - Patched fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/GeistMono)
+- Install [iTerm2](https://iterm2.com/)
+- Install [Geist Mono Nerd Font - Patched fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/GeistMono)
   - [Geist Mono](https://vercel.com/font)
-  - "GeistMono Nerd Font Mono"
-- [Spaceship prompt](https://spaceship-prompt.sh/)
-- [Starship](https://starship.rs/)
+  - Set up the font family in iTerm2: "GeistMono Nerd Font Mono"
+- Install [Spaceship prompt](https://spaceship-prompt.sh/)
+  - `brew install spaceship`
+  - `echo "source $(brew --prefix)/opt/spaceship/spaceship.zsh" >>! ~/.zshrc`
+- Install [Starship](https://starship.rs/)
+  - `brew install starship`
+  - Add the following to the end of `~/.zshrc`:
+    - `eval "$(starship init zsh)"`
   - [Gruvbox Rainbow Preset](https://starship.rs/presets/gruvbox-rainbow)
+    - `starship preset gruvbox-rainbow -o ~/.config/starship.toml`
 
 ##### Editor Font
 
