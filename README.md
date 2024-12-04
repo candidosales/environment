@@ -33,10 +33,10 @@ Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube
 
 VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 
-## My Terminal + Font Nerd + Custom ZSH + Theme
+## My Terminal + Nerd Font + Custom ZSH + Theme
 
 - [iTerm2](https://iterm2.com/)
-- [Geist Mono Nerd Font](https://github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/GeistMono)
+- [Geist Mono Nerd Font - Patched fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/GeistMono)
   - [Geist Mono](https://vercel.com/font)
 - [Spaceship prompt](https://spaceship-prompt.sh/)
 - [Starship](https://starship.rs/)
