@@ -31,10 +31,20 @@ Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube
 - [GoLand](https://www.jetbrains.com/go/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
-VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...` 
+VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
+
+## My Terminal + Font Nerd + Custom ZSH + Theme
+
+- [iTerm2](https://iterm2.com/)
+- [Geist Mono Nerd Font](https://github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/GeistMono)
+  - [Geist Mono](https://vercel.com/font)
+- [Spaceship prompt](https://spaceship-prompt.sh/)
+- [Starship](https://starship.rs/)
+  - [Preset Gruvbox Rainbow](https://starship.rs/presets/gruvbox-rainbow)
 
 ##### Editor Font
 
+- https://github.com/ryanoasis/nerd-fonts
 - https://input.djr.com/
 - https://www.jetbrains.com/lp/mono/
 - https://www.monolisa.dev/
@@ -48,10 +58,10 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 - https://brailleinstitute.org/freefont
 - https://monaspace.githubnext.com/
 - https://vercel.com/font
-- https://github.com/ryanoasis/nerd-fonts
 
 #### Terminal
 
+- [iTerm2](https://iterm2.com/)
 - [Warp - Rust-based](https://www.warp.dev/)
 - [Nushell](https://www.nushell.sh/)
 
