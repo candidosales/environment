@@ -35,12 +35,15 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 
 ## My Terminal + Nerd Font + Custom ZSH + Theme
 
+![my terminal](./terminal.png)
+
 - [iTerm2](https://iterm2.com/)
 - [Geist Mono Nerd Font - Patched fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/GeistMono)
   - [Geist Mono](https://vercel.com/font)
+  - "GeistMono Nerd Font Mono"
 - [Spaceship prompt](https://spaceship-prompt.sh/)
 - [Starship](https://starship.rs/)
-  - [Preset Gruvbox Rainbow](https://starship.rs/presets/gruvbox-rainbow)
+  - [Gruvbox Rainbow Preset](https://starship.rs/presets/gruvbox-rainbow)
 
 ##### Editor Font
 
@@ -172,11 +175,11 @@ nvm alias default 20
 brew install rbenv
 ```
 
-**Ruby 3.3.5**
+**Ruby 3.3.6**
 
 ```shell
-rbenv install 3.3.5
-rbenv global 3.3.5
+rbenv install 3.3.6
+rbenv global 3.3.6
 ```
 
 #### Postgres
