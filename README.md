@@ -51,6 +51,31 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
   - [Gruvbox Rainbow Preset](https://starship.rs/presets/gruvbox-rainbow)
     - `starship preset gruvbox-rainbow -o ~/.config/starship.toml`
 
+### Utilities
+
+- https://github.com/zsh-users/zsh-autosuggestions (Fish-like autosuggestions for zsh)
+  - `brew install zsh-autosuggestions`
+  - Add the following to the end of `~/.zshrc`:
+    - `source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh`
+- https://github.com/zsh-users/zsh-syntax-highlighting (Fish shell like syntax highlighting for Zsh)
+  - `brew install zsh-syntax-highlighting`
+  - Add the following to the end of `~/.zshrc`
+    - `source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh`
+- https://github.com/nvbn/thefuck (Magnificent app which corrects your previous console command)
+  - `brew install thefuck`
+- https://github.com/junegunn/fzf (A command-line fuzzy finder)
+  - `brew install fzf`
+  - Add the following to the end of `~/.zshrc`:
+    - `source <(fzf --zsh)`
+- https://github.com/sharkdp/fd (A simple, fast and user-friendly alternative to 'find')
+  - `brew install fd`
+- https://github.com/eza-community/eza (A modern, maintained replacement for ls, written in rust)
+  - `brew install eza`
+- https://github.com/ajeetdsouza/zoxide (A smarter cd command. Supports all major shells)
+  - `brew install zoxide`
+  - Add the following to the end of `~/.zshrc`:
+    - `eval "$(zoxide init zsh)"` 
+
 ##### Editor Font
 
 - https://github.com/ryanoasis/nerd-fonts
