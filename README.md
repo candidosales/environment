@@ -8,6 +8,7 @@ Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube
 
 - [My Minimal MacBook Pro Setup Guide](https://eugeneyan.com/writing/mac-setup/)
 - [Setting up new M3 Max MacBook Pro for Full-Stack Web Development](https://www.youtube.com/watch?v=PvU_aEgIjSg)
+- [7 Amazing CLI Tools You Need To Try](https://www.youtube.com/watch?v=mmqDYw9C30I)
 
 ### Developer
 
