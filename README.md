@@ -34,14 +34,14 @@ Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube
 
 VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 
-## My Terminal + Nerd Font + Custom ZSH + Theme
+## My Terminal: Ghostty + Nerd Font + Custom ZSH: Spaceship + Theme: Starship
 
 ![my terminal](./terminal.png)
 
-- Install [iTerm2](https://iterm2.com/)
+- Install [Ghostty](https://ghostty.org/)
 - Install [Geist Mono Nerd Font - Patched fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/GeistMono)
   - [Geist Mono](https://vercel.com/font)
-  - Set up the font family in iTerm2: "GeistMono Nerd Font Mono"
+  - Set up the font family in [Ghostty](https://ghostty.org/docs/config#configuration-format): `font-family = "GeistMono Nerd Font Mono"`
 - Install [Spaceship prompt](https://spaceship-prompt.sh/)
   - `brew install spaceship`
   - `echo "source $(brew --prefix)/opt/spaceship/spaceship.zsh" >>! ~/.zshrc`
