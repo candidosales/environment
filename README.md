@@ -12,6 +12,7 @@ Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube
 
 ### Developer
 
+- [Yaak - The API client for modern developers](https://yaak.app/)
 - [Bruno - Opensource IDE For Exploring and Testing Api's](https://www.usebruno.com/)
 - [Docker](https://www.docker.com/get-started)
 - [Github CLI](https://cli.github.com/)
