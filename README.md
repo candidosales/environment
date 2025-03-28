@@ -18,12 +18,14 @@ Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube
 - [Github CLI](https://cli.github.com/)
 - [Tableplus - Database management](https://www.tableplus.com/)
 - [Raycast](https://www.raycast.com/)
+- [mise-en-place](https://mise.jdx.dev/)
 
 #### Editor
 
 - [Zed](https://zed.dev/)
 - [Fleet](https://www.jetbrains.com/fleet/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+  - [Monokai Pro](https://monokai.pro/) 
   - [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse)
   - [White - Minimalist monochrome theme](https://marketplace.visualstudio.com/items?itemName=arthurwhite.White)
   - [Batsignal Theme](https://github.com/natew/batsignal)
