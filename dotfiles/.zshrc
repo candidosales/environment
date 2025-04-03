@@ -1,27 +1,39 @@
+# Oh my Zsh configuration file
+# Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
+# Uncomment the following line to use case-sensitive completion.
 CASE_SENSITIVE="true"
 
-plugins=(git git-commit vscode rails eza)
+# Which plugins would you like to load?
+# Standard plugins can be found in $ZSH/plugins/
+# Custom plugins may be added to $ZSH_CUSTOM/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+# Add wisely, as too many plugins slow down shell startup.
+plugins=(git git-commit rails eza)
 
 source $ZSH/oh-my-zsh.sh
+
+# User configuration
+
+# Mise
+eval "$(/Users/candidogomes/.local/bin/mise activate zsh)"
 
 # ZSH
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-export EDITOR='code -w'
+# Bun
+[ -s "/Users/candidogomes/.bun/_bun" ] && source "/Users/candidogomes/.bun/_bun"
 
-# -------
-# pnpm Aliases
-# -------
-alias p="pnpm"
-alias pi="pnpm install"
-alias pa="pnpm add"
-alias pd="pnpm dev"
-alias pb="pnpm build"
-alias pr="pnpm run"
-alias psd="pnpm start:dev"
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
+
+# ----------------------
+# Tools
+# ----------------------
+alias v="open $1 -a \"Visual Studio Code\""
+
 
 # ----------------------
 # Git Aliases
@@ -37,16 +49,15 @@ alias gss='git status -s'
 alias gs='echo ""; echo "*********************************************"; echo -e "   DO NOT FORGET TO PULL BEFORE COMMITTING"; echo "*********************************************"; echo ""; git status'
 
 # ----------------------
-# Tools
-# ----------------------
-alias c="open $1 -a \"Cursor\"" 
-alias v="open $1 -a \"Visual Studio Code\""
-
-# ----------------------
 # Utilities
 # ----------------------
 alias cd='z'
 alias ls="eza --color=always --long --git --no-filesize --icons=always --no-time --no-user --no-permissions"
+
+# Android
+export ANDROID_HOME=$HOME/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/platform-tools
 
 # Starship
 eval "$(starship init zsh)"
