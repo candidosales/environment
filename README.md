@@ -45,10 +45,9 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 - Install [Geist Mono Nerd Font - Patched fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/GeistMono)
   - [Geist Mono](https://vercel.com/font)
   - Set up the font family in [Ghostty](https://ghostty.org/docs/config#configuration-format): `font-family = "GeistMono Nerd Font Mono"`
-- Install [Spaceship prompt](https://spaceship-prompt.sh/)
-  - `brew install spaceship`
-  - `echo "source $(brew --prefix)/opt/spaceship/spaceship.zsh" >>! ~/.zshrc`
-- Install [Starship](https://starship.rs/)
+- Install [Oh my ZSH](https://ohmyz.sh/) - Plugins
+  - `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+- Install [Starship](https://starship.rs/) - Theme
   - `brew install starship`
   - Add the following to the end of `~/.zshrc`:
     - `eval "$(starship init zsh)"`
@@ -99,20 +98,10 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 
 #### Terminal
 
+- [Ghostty](https://ghostty.org/)
 - [iTerm2](https://iterm2.com/)
 - [Warp - Rust-based](https://www.warp.dev/)
 - [Nushell](https://www.nushell.sh/)
-
-#### Command line
-
-- [Fish](https://fishshell.com/)
-
-First, install the [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
-
-*Zsh theme*
-- [PowerLevel10k](https://github.com/romkatv/powerlevel10k)
-- [Space Prompt](https://github.com/denysdovhan/spaceship-prompt)
-
 
 
 #### Settings
@@ -174,12 +163,16 @@ Install Homebrew: https://brew.sh/
 #### Go
 
 ```shell
-brew install go
+mise use --global go@1.24
 ```
 
-https://github.com/rakyll/govalidate
-
 #### Node
+
+```shell
+mise use --global node@22
+```
+
+##### Alternative
 
 **FNM - Node.js version manager, built-in Rust**
 
@@ -189,20 +182,13 @@ https://github.com/Schniz/fnm
 brew install fnm
 ```
 
-**NVM**
-
-```shell
-brew install nvm
-```
-
-**Node 20**
-
-```shell
-nvm install 20
-nvm alias default 20
-```
-
 #### Ruby
+
+```shell
+mise use --global ruby@3.4.2
+```
+
+##### Alternative
 
 **Rbenv**
 
