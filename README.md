@@ -206,8 +206,9 @@ rbenv global 3.3.6
 #### Postgres
 
 ```shell
-brew install postgres
+brew install postgres@17
 ```
 
-- PgAdmin 4 (Free - Open source) - https://www.pgadmin.org/download/pgadmin-4-macos/
-- Postico 2 - https://eggerapps.at/postico2/ - The native Mac app for PostgreSQL
+- [TablePlus](https://tableplus.com/)
+- [PgAdmin 4](https://www.pgadmin.org/download/pgadmin-4-macos/) - Free - Open source
+- [Postico 2](https://eggerapps.at/postico2/) - The native Mac app for PostgreSQL
