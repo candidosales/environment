@@ -53,6 +53,7 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
     - `eval "$(starship init zsh)"`
   - [Gruvbox Rainbow Preset](https://starship.rs/presets/gruvbox-rainbow)
     - `starship preset gruvbox-rainbow -o ~/.config/starship.toml`
+- Install [atuin](https://atuin.sh/) 
 
 ### Utilities
 
