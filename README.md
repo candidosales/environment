@@ -16,7 +16,9 @@ Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube
 - [Bruno - Opensource IDE For Exploring and Testing Api's](https://www.usebruno.com/)
 - [Docker](https://www.docker.com/get-started)
 - [Github CLI](https://cli.github.com/)
-- [Tableplus - Database management](https://www.tableplus.com/)
+- [Tableplus - Database management](https://www.tableplus.com/) - Paid
+- [PgAdmin 4](https://www.pgadmin.org/download/) - Free - Open source
+  - `brew install --cask pgadmin4`
 - [Raycast](https://www.raycast.com/)
 - [mise-en-place](https://mise.jdx.dev/)
 
