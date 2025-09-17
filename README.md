@@ -80,7 +80,8 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 - https://github.com/ajeetdsouza/zoxide (A smarter cd command. Supports all major shells)
   - `brew install zoxide`
   - Add the following to the end of `~/.zshrc`:
-    - `eval "$(zoxide init zsh)"` 
+    - `eval "$(zoxide init zsh)"`
+- Adds the [utility alias](https://github.com/candidosales/environment/blob/main/dotfiles/.zshrc#L54) 
 
 ##### Editor Font
 
