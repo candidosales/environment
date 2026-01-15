@@ -81,7 +81,9 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
   - `brew install zoxide`
   - Add the following to the end of `~/.zshrc`:
     - `eval "$(zoxide init zsh)"`
-- Adds the [utility alias](https://github.com/candidosales/environment/blob/main/dotfiles/.zshrc#L54) 
+- Adds the [utility alias](https://github.com/candidosales/environment/blob/main/dotfiles/.zshrc#L54)
+- https://github.com/cesarferreira/rip (Fuzzy find and kill processes from your terminal)
+  - `brew install cesarferreira/tap/rip` 
 
 ##### Editor Font
 
