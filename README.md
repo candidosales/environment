@@ -12,10 +12,12 @@ Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube
 
 ### Developer
 
-- [Yaak - The API client for modern developers](https://yaak.app/)
+- ✅ [Yaak - The API client for modern developers](https://yaak.app/) - Rust
 - [Bruno - Opensource IDE For Exploring and Testing Api's](https://www.usebruno.com/)
 - [Docker](https://www.docker.com/get-started)
 - [Github CLI](https://cli.github.com/)
+- ✅ [Dataflare - Fast. Simple. Database Manager](https://dataflare.app/) - Freemium - Rust
+  - `brew install dataflare` 
 - [Tableplus - Database management](https://www.tableplus.com/) - Paid
 - [PgAdmin 4](https://www.pgadmin.org/download/) - Free - Open source
   - `brew install --cask pgadmin4`
@@ -25,7 +27,6 @@ Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube
 #### Editor
 
 - [Zed](https://zed.dev/)
-- [Fleet](https://www.jetbrains.com/fleet/)
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Monokai Pro](https://monokai.pro/) 
   - [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse)
