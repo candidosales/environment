@@ -28,6 +28,7 @@ Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube
 
 - [Zed](https://zed.dev/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+  - [VSCode Dark Islands](https://github.com/bwya77/vscode-dark-islands)
   - [Monokai Pro](https://monokai.pro/) 
   - [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse)
   - [White - Minimalist monochrome theme](https://marketplace.visualstudio.com/items?itemName=arthurwhite.White)
