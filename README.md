@@ -108,6 +108,7 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 
 #### Terminal
 
+- [cmux](https://cmux.com/)
 - [Ghostty](https://ghostty.org/)
 - [iTerm2](https://iterm2.com/)
 - [Warp - Rust-based](https://www.warp.dev/)
