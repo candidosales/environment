@@ -16,7 +16,8 @@ Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube
 - [Bruno - Opensource IDE For Exploring and Testing Api's](https://www.usebruno.com/)
 - [Docker](https://www.docker.com/get-started)
 - [Github CLI](https://cli.github.com/)
-- ✅ [Dataflare - Fast. Simple. Database Manager](https://dataflare.app/) - Freemium - Rust
+- ✅ [TablePro - Native. Fast. Free. The database client for Mac.](https://tablepro.app/) - Free
+- [Dataflare - Fast. Simple. Database Manager](https://dataflare.app/) - Freemium - Rust
   - `brew install dataflare` 
 - [Tableplus - Database management](https://www.tableplus.com/) - Paid
 - [PgAdmin 4](https://www.pgadmin.org/download/) - Free - Open source
@@ -57,7 +58,8 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
     - `eval "$(starship init zsh)"`
   - [Gruvbox Rainbow Preset](https://starship.rs/presets/gruvbox-rainbow)
     - `starship preset gruvbox-rainbow -o ~/.config/starship.toml`
-- Install [atuin](https://atuin.sh/) 
+- Install [atuin](https://atuin.sh/)
+- Install [cmux](https://cmux.com/) - The terminal built for multitasking
 
 ### Utilities
 
