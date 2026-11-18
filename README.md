@@ -13,16 +13,18 @@ Guide: [Set up a Mac in 2024 for Power Users and Developers](https://www.youtube
 ### Developer
 
 - ✅ [Yaak - The API client for modern developers](https://yaak.app/) - Rust
-- [Bruno - Opensource IDE For Exploring and Testing Api's](https://www.usebruno.com/)
+  - [Bruno - Opensource IDE For Exploring and Testing Api's](https://www.usebruno.com/)
 - [Docker](https://www.docker.com/get-started)
-- [Github CLI](https://cli.github.com/)
+  - ✅ [Kiri - The modern container runtime](https://runkiri.com/)
+- ✅ [Github CLI](https://cli.github.com/)
 - ✅ [TablePro - Native. Fast. Free. The database client for Mac.](https://tablepro.app/) - Free
 - [Dataflare - Fast. Simple. Database Manager](https://dataflare.app/) - Freemium - Rust
   - `brew install dataflare` 
 - [Tableplus - Database management](https://www.tableplus.com/) - Paid
 - [PgAdmin 4](https://www.pgadmin.org/download/) - Free - Open source
   - `brew install --cask pgadmin4`
-- [Raycast](https://www.raycast.com/)
+- ✅ [Tinycast](https://tinycast.dev/) - Rust
+  - [Raycast](https://www.raycast.com/)
 - [mise-en-place](https://mise.jdx.dev/)
 
 #### Editor
@@ -108,6 +110,7 @@ VS Code Sync Plugins and settings: (CMD+Shift+P) `Settings Sync: Turn On ...`
 
 #### Terminal
 
+- [Rex](https://www.superlogical.com/rex/docs/installation)
 - [cmux](https://cmux.com/)
 - [Ghostty](https://ghostty.org/)
 - [iTerm2](https://iterm2.com/)
@@ -144,12 +147,14 @@ git config --global color.ui true
   - Spotify
   - VSCode
 - [Screen Studio - Beautiful screen recordings in minutes](https://www.screen.studio/)
+- [Textream - Your script, highlighted live as you speak.](https://textream.net/)
+- [WhatThePort - Every dev server on your Mac, in the menu bar](https://whattheport.dev/)
 
 #### Others
 - [Spotify](https://www.spotify.com/ca-en/download/other/)
 - [Discord](https://discord.com/download)
 - [Hidden Bar](https://github.com/dwarvesf/hidden)
-- [AltTab](https://alt-tab-macos.netlify.app/)
+- [AltTab](https://alt-tab.app/)
 - [An open-source screen recorder built with web technology - KAP](https://getkap.co/)
 - [Prevent your Mac from falling asleep, dimming the screen or starting your screensaver - Theine](https://apps.apple.com/app/theine/id955848755?mt=12)
 
